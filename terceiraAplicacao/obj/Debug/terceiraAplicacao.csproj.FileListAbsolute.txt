@@ -1,0 +1,15 @@
+C:\Users\Pichau\.dotnet\projetos\projeto#2\terceiroProjeto\terceiraAplicacao\bin\Debug\terceiraAplicacao.exe.config
+C:\Users\Pichau\.dotnet\projetos\projeto#2\terceiroProjeto\terceiraAplicacao\bin\Debug\terceiraAplicacao.exe
+C:\Users\Pichau\.dotnet\projetos\projeto#2\terceiroProjeto\terceiraAplicacao\bin\Debug\terceiraAplicacao.pdb
+C:\Users\Pichau\.dotnet\projetos\projeto#2\terceiroProjeto\terceiraAplicacao\obj\Debug\terceiraAplicacao.csproj.AssemblyReference.cache
+C:\Users\Pichau\.dotnet\projetos\projeto#2\terceiroProjeto\terceiraAplicacao\obj\Debug\terceiraAplicacao.Form1.resources
+C:\Users\Pichau\.dotnet\projetos\projeto#2\terceiroProjeto\terceiraAplicacao\obj\Debug\terceiraAplicacao.Properties.Resources.resources
+C:\Users\Pichau\.dotnet\projetos\projeto#2\terceiroProjeto\terceiraAplicacao\obj\Debug\terceiraAplicacao.UC_adProd.resources
+C:\Users\Pichau\.dotnet\projetos\projeto#2\terceiroProjeto\terceiraAplicacao\obj\Debug\terceiraAplicacao.csproj.GenerateResource.cache
+C:\Users\Pichau\.dotnet\projetos\projeto#2\terceiroProjeto\terceiraAplicacao\obj\Debug\terceiraAplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\.dotnet\projetos\projeto#2\terceiroProjeto\terceiraAplicacao\obj\Debug\terceiraAplicacao.exe
+C:\Users\Pichau\.dotnet\projetos\projeto#2\terceiroProjeto\terceiraAplicacao\obj\Debug\terceiraAplicacao.pdb
+C:\Users\Pichau\.dotnet\projetos\projeto#2\terceiroProjeto\terceiraAplicacao\obj\Debug\terceiraAplicacao.UC_verEst.resources
+C:\Users\Pichau\.dotnet\projetos\projeto#2\terceiroProjeto\terceiraAplicacao\obj\Debug\terceiraAplicacao.UC_imRel.resources
+C:\Users\Pichau\.dotnet\projetos\projeto#2\terceiroProjeto\terceiraAplicacao\obj\Debug\terceiraAplicacao.UC_retPeca.resources
+C:\Users\Pichau\.dotnet\projetos\projeto#2\terceiroProjeto\terceiraAplicacao\obj\Debug\terceiraAplicacao.UC_prodCad.resources
